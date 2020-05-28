@@ -1,4 +1,4 @@
-Learn WebTorrent and WebRTC in our [guided workshops](https://webtorrent.github.io/webtorrent-workshop/)!
+Learn WebTorrent and WebRTC in our [guided workshops](https://webtorrent.github.io/workshop/)!
 
 ## Workshops
 
